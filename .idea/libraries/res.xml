@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="res">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/res/Assignment6_Text_View.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/html.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/Assignment6_GUI_View.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
