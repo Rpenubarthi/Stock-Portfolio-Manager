@@ -1,7 +1,8 @@
 HOW TO RUN THE PROGRAM:
-1. In the terminal/command line, change directory to the res folder of the project
-2. If the text-based interface is wanted, run java -jar Stock_Portfolio_Text_View.jar
-3. If the graphical user interface is wanted, run java -jar Stock_Portfolio_GUI_View.jar
+1. Go to src/model/AlphaVantageDemo.java and change the variable apiKey to the new apiKey 
+2. In the terminal/command line, change directory to the res folder of the project
+3. If the text-based interface is wanted, run java -jar Stock_Portfolio_Text_View.jar
+4. If the graphical user interface is wanted, run java -jar Stock_Portfolio_GUI_View.jar
 
 
 To create a portfolio with 3 different stocks on the text-based view, do these commands:
