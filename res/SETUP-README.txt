@@ -1,9 +1,9 @@
 HOW TO RUN THE PROGRAM:
 1. In the terminal/command line, change directory to the res folder of the project
-2. If the text-based interface is wanted, run Assignment6_Text_View.jar
-3. If the graphical user interface is wanted, run Assignment6_GUI_View.jar
+2. If the text-based interface is wanted, run Stock_Portfolio_Text_View.jar
+3. If the graphical user interface is wanted, run Stock_Portfolio_GUI_View.jar
 
-To create a portfolio with 3 different stocks, do these commands:
+To create a portfolio with 3 different stocks on the text-based view, do these commands:
 add-portfolio portfolio-name
 buy-stock ticker shares portfolio-name date
 
@@ -48,6 +48,9 @@ myPortfolio
 2024
 06
 05
+
+The GUI-based view has options at the top of the view that allows for the same functionality as the text-based 
+interface above.
 
 Our program supports a list of active or delisted US stocks and ETFs,
 either as of the latest trading day or at a specific time in history.
